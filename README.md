@@ -1,5 +1,4 @@
 # ec2_snapshot_retention-scripts
-# AWS DevOps Automation Scripts
 
 A collection of real-world Python automation scripts using `boto3` to manage AWS infrastructure.
 
